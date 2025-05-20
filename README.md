@@ -31,7 +31,7 @@ A full-stack web application enabling voice interactions with AI, integrating sp
 ###  Backend (Django)
 1. Clone the repository:
    ```
-   git clone https://github.com/topcoder0309/ai-voice-assistant.git
+   git clone https://github.com/software-dev0309/ai-voice-assistant.git
    cd ai-voice-assistant
    ```
 
