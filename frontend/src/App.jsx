@@ -6,7 +6,6 @@ function App() {
   const [conversation, setConversation] = useState([]);
   const mediaRecorder = useRef(null);
   const audioChunks = useRef([]);
-
   const startRecording = async () => {
     try {
       const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
