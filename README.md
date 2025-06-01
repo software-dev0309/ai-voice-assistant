@@ -14,11 +14,6 @@ A full-stack web application enabling voice interactions with AI, integrating sp
   - Multi-provider support (Gemini, OpenAI)  
   - Context-aware response generation  
 
-### Interface
-- Real-time chat UI with Websockets  
-- Session persistence for multi-turn conversations  
-- Interactive transcript logging  
-
 ##  Tech Stack
 
 **Frontend** : React, Vite, TailwindCSS, Web Speech API <br>
